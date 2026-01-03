@@ -34,10 +34,36 @@ This project was developed for the **Smart India Hackathon 2025** under the **Tr
 ✔ Modular components  
 ✔ Responsive layout  
 
-*(Add screenshots here!)*
-
----
-
 ## 💻 Setup Instructions
 
 1. Clone:
+2. Install:
+3. Run locally:
+
+
+---
+
+## 📁 Folder Structure
+
+├─ app/
+├─ components/
+├─ hooks/
+├─ public/
+├─ styles/
+├─ README.md
+├─ package.json
+
+
+---
+
+## 🙌 Contributions
+
+Feel free to open issues or pull requests — especially for adding backend data connections or real-time APIs!
+
+---
+
+## 📜 License
+
+This project is open-source and free to explore.
+
+
